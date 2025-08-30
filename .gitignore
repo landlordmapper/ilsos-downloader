@@ -1,6 +1,6 @@
-# PyCharm project files
-.idea/
-*.iml
-
-# venv
-.venv/
+__pycache__
+*.log
+.env
+.venv
+*.egg-info
+data/
